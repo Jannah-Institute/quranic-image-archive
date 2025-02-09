@@ -1,2 +1,7 @@
 # quranic-image-archive
-work in progress
+
+feel free to use this
+
+sources: 
+
+everyayah.com
